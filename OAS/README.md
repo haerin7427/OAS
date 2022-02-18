@@ -1,7 +1,7 @@
 # OAS
 
 ## Introduction
-***
+
 
 ## Functions
 ***

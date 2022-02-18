@@ -1,9 +1,9 @@
 # OAS
 
 ## Introduction
-**구현 목적**
-목적1
-목적2
+**구현 목적**<br>
+목적1<br>
+목적2<br>
 
 ## Functions
 

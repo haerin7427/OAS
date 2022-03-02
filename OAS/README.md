@@ -1,5 +1,5 @@
 # OAS
-
+![](./readmeImage/220217_homeImage.png)
 ## 💡 Goal
 * 학부 공지에서 진행중인 프로그램 파악 어려움 해소<br>
 * 실시간으로 프로그램 신청 신청 현황 확인<br>

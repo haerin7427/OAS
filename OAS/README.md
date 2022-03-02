@@ -1,4 +1,4 @@
-# OAS
+# HGU CSEE 신청 시스템
 ![](./readmeImage/220217_homeImage.png)
 ## 💡 Goal
 * 학부 공지에서 진행중인 프로그램 파악 어려움 해소<br>

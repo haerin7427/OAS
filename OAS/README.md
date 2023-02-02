@@ -1,5 +1,8 @@
 # HGU CSEE 신청 시스템
 ![](./readmeImage/220217_homeImage.png)
+
+- HGU CSEE 신청 시스템는 학부 게시판을 통한 프로그램 신청 과정의 불편함을 해소할 수 있는 웹 서비스 입니다. **프로그램 신청 설문지 제작, 설문 응답, 설문 응답지 관리를 할 수 있습니다.** 학생 사용자의 경우, 학부의 프로그램을 확인할 수 있고 작성한 신청서의 접수 현황 (미처리/미입금/완료 등)을 파악할 수 있습니다. 관리자 선생님은 학생들에게 설문 응답지 관리 기능을 통해 학생들에게 개별적으로 안내사항을 전달하는 시간을 줄일 수 있어 일의 효율을 높일 수 있습니다.
+- [HGU CSEE 신청 시스템 데모 영상](https://youtu.be/kl65UwHsPqk) 
 ## 💡 Goal
 * 학부 공지에서 진행중인 프로그램 파악 어려움 해소<br>
 * 실시간으로 프로그램 신청 신청 현황 확인<br>
@@ -11,10 +14,12 @@
 * 설문지 상태 관리
 * 회원 관리 (Excel로 export 가능)
 
-## 🛠 Stacks
-- Spring, MariaDB
-- JSP, CSS, Javascript
+## 🏆 Awards
+- 2021.12 - 2021 스마트 애플리케이션 공모전 최우수상
 
-## 🎥 Demo
-[https://youtu.be/kl65UwHsPqk](https://youtu.be/kl65UwHsPqk)  
+## 🛠 Stacks
+- Spring 4.3.1
+- Mybatis 3.5.3
+- MariaDB
+- JSP, CSS, Javascript
 
